@@ -1,0 +1,7 @@
+
+{
+  "ConnectionStrings": {
+    "DefaultConnection":  "Server=192.168.240.60;Database=ASAEMS;User Id=sa; Password=@ugust@021;Trusted_Connection=False;Encrypt=False;MultipleActiveResultSets=False;"
+  }
+}
+     

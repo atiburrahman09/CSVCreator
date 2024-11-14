@@ -1,0 +1,15 @@
+E:\publish\CSVCreatorApp\CSVCreatorAPP.exe
+E:\publish\CSVCreatorApp\Config.txt
+E:\publish\CSVCreatorApp\CSVCreatorAPP.dll
+E:\publish\CSVCreatorApp\CSVCreatorAPP.deps.json
+E:\publish\CSVCreatorApp\CSVCreatorAPP.runtimeconfig.json
+E:\publish\CSVCreatorApp\CSVCreatorAPP.pdb
+E:\publish\CSVCreatorApp\CsvHelper.dll
+E:\publish\CSVCreatorApp\Dapper.dll
+E:\publish\CSVCreatorApp\Newtonsoft.Json.dll
+E:\publish\CSVCreatorApp\System.Data.SqlClient.dll
+E:\publish\CSVCreatorApp\runtimes\win-arm64\native\sni.dll
+E:\publish\CSVCreatorApp\runtimes\win-x64\native\sni.dll
+E:\publish\CSVCreatorApp\runtimes\win-x86\native\sni.dll
+E:\publish\CSVCreatorApp\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\publish\CSVCreatorApp\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
